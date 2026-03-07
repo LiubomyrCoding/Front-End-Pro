@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.emoji-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+.button-container {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    height: 80px;
+    width: 250px;
+    background: #1bb41b;
+    color: #fff;
+    border-radius: 125px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.winnerinfo-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
