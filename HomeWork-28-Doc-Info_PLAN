@@ -1,0 +1,13 @@
+ДЗ до цього уроку
+Писати на Реакт
+Для стиізації юзати бутстрап - https://react-bootstrap.netlify.app/docs/getting-started/introduction
+Користувач бачить список усіх тудушок (зроблені від не зроблених). При натисканні на конкретну тудушку її стан переключається на протилежне.
+Під списком знаходиться форма з інпутом та кнопкою. Користувач може ввести в інпут справу, яку хоче зробити, та натиснути кнопку. Після натискання у списку з'являється нова тудушка
+
+Todo-List-On-Steroids:
+    File_Name-[TodoForm] : Input, Button
+    File_Name-[List Of Elements] : UL, LI....[Mark the Elements as DONE!] : Checkbox
+
+
+Overview;
+    So first we should create a mini form, of one input and a button and when we click on the button the input sends and creates an LI element on the right side of the form and when we click on the Element the State of the Element changes using REACT.
